@@ -1,6 +1,6 @@
 # cpplint - static code checker for C++
 
-[![Build Status](https://travis-ci.org/tkruse/cpplint.svg)](https://travis-ci.org/tkruse/cpplint)
+[![Build Status](https://travis-ci.org/yowza3d/cpplint.svg)](https://travis-ci.org/yowza3d/cpplint)
 
 This project provides cpplint as a pypi package
 (https://pypi.python.org/pypi/cpplint). It follows the code maintained as SVN
