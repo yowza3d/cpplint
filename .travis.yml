@@ -9,3 +9,4 @@ python:
 # install: "sudo apt-get install"
 # command to run tests, e.g. python setup.py test
 script: python cpplint_unittest.py
+script: python nitpick_unittest.py
